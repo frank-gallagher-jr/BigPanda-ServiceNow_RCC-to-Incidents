@@ -54,5 +54,5 @@ Name it something like "ProcessBigPandaRCC", align the event x_bip_panda.trigger
     --------------------------------------------------------
     BigPanda ROOT CAUSE SUSPECT (1 of 1) 
     CHG0030008:  "Production host prdapp6.hellowhirl.dev planned maintenance" 
-    Change Details: https://dev107697.service-now.com/nav_to.do?uri=change_request.do?sys_id=7159ca35471621103ea2e80f136d4356
+    Change Details: https://dev107697.service-now.com/nav_to.do?uri=change_request.do?sys_id=11111111111111103ea2e80f136d4356
     -----------------------------------------------------------END BP RCC---
